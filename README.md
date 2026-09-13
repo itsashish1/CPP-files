@@ -1,4 +1,4 @@
-1C++ files | Each ~1 hour of learning | Master C++ from Scratch
+C++ files | Each ~1 hour of learning | Master C++ from Scratch
 
 This repository contains 87 well-structured C++ files, each designed to teach you one concept at a time.
 Spend 1 hour on each file, and you’ll go from zero to hero in C++ programming.
